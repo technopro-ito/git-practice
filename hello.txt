@@ -1,5 +1,2 @@
 Hello Git
-
-updated
-
-OK
+Feature test
